@@ -1,31 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "watches": [
+    {"id":1,"attributes":{"code":"935744444","model":"GtM","price":"24141","referenceNumber":"ALen Reff","movement":"askdnf","material":"steel","diameter":42,"colorDial":"black","watchBand":"steel","year":"2020-03-24T23:00:00.000Z","condition":"Great","description":"lorem","createdAt":"2023-03-11T11:32:32.884Z","updatedAt":"2023-05-01T20:30:18.970Z","publishedAt":"2023-03-11T11:35:42.320Z","maker":"Rolex","img":"/uploads/2d346cae9e65a8341d72ca26e465690e_54fcc4039d.jpg","imgLinks":["/uploads/2d346cae9e65a8341d72ca26e465690e_54fcc4039d.jpg"],"published":true,"papers":"ajndkjasd","box":"kajnsdkadn"}},{"id":3,"attributes":{"code":"h9u213yhe8y","model":"Speed Master Triple Date","price":"3990","referenceNumber":"as45d12489","movement":"qwd","material":"steel","diameter":40,"colorDial":"Blue","watchBand":"Steel","year":"1970-01-01T00:00:02.008Z","condition":"Verry Good","description":"very good condition","createdAt":"2023-04-13T09:29:45.234Z","updatedAt":"2023-05-01T11:48:45.646Z","publishedAt":"2023-04-13T09:29:45.216Z","maker":"Omega","img":"/uploads/332050583_869165864190930_7903314922167901814_n_86a1da9b6d.jpg","imgLinks":["/uploads/332050583_869165864190930_7903314922167901814_n_86a1da9b6d.jpg"],"published":false,"papers":null,"box":null}},{"id":9,"attributes":{"code":"9357455","model":"GtMM","price":"24141","referenceNumber":"1234-asd-12","movement":"askdnf","material":"steel","diameter":42,"colorDial":"black","watchBand":"steel","year":"2020-03-24T23:00:00.000Z","condition":"Great","description":"lorem","createdAt":"2023-05-01T11:58:29.762Z","updatedAt":"2023-05-01T12:49:00.243Z","publishedAt":"2023-05-01T11:58:35.804Z","maker":"Rolex","img":"/uploads/2d346cae9e65a8341d72ca26e465690e_54fcc4039d.jpg","imgLinks":["/uploads/2d346cae9e65a8341d72ca26e465690e_54fcc4039d.jpg"],"published":true,"papers":"testPapers","box":"testBox"}}
+  ]
 }
